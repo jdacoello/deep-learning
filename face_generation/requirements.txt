@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib==2.0.2
+scikit-learn
+jupyter
+notebook
+tensorflow
+tqdm
+pillow
